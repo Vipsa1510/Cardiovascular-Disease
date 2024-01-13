@@ -8,7 +8,7 @@
 
 <h3>Dataset Link:</h3>https://www.kaggle.com/datasets/akshatshaw7/cardiovascular-disease-dataset/data"
 
-<h3>Repository Link:</h3>https://github.com/sutariyapriyanshi/Hack-for-health
+<h3>Repository Link:</h3>https://github.com/Vipsa1510/Cardiovascular-Disease
 
 <h3>WebApp URL:</h3>
 
